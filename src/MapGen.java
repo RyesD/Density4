@@ -1,7 +1,7 @@
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics2D;
-
+//comment
 public class MapGen {
 		public int map[][];
 		public int brickWidth;
